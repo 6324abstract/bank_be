@@ -1,6 +1,6 @@
 # Easy  Bank
 
-In this project, I designd, developed, and deployed a backend web service which provides APIs for the frontend to do the following things:
+In this project, I designed, developed, and deployed a backend web service which provides APIs for the frontend to do the following things:
 
 Create and manage bank accounts.
 Record all balance changes to each of the accounts.
